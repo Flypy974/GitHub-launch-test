@@ -1,0 +1,10 @@
+.test {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    border: black 2px solid;
+    font-size: 50px;
+    padding: 4em;
+    margin: 6em;
+
+}
